@@ -1,0 +1,25 @@
+{
+  "extrapolationLevel": 1,
+  "columnNames": [
+	"city",
+	"avg(duration)",
+	"max(duration)",
+	],
+  "values":[
+	[
+	  "Klagenfurt",
+	  "65996.75",
+	  "129940"
+	  ],
+	[
+	  "Linz",
+	  "57360.86",
+	  "222912"
+	  ],
+	[
+	  "Gdansk",
+	  "22482.2",
+	  "351263"
+	  ]
+	]
+}
